@@ -56,7 +56,6 @@ Follow the instructions below to set up and use AutoBeePot:
 ## Contributions
 
 If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-Please note: I won't be active fully on this repository; for faster communication, contact me on Discord: https://discord.gg/wh4buD2nRD
 
 ---
 
